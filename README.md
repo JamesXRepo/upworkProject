@@ -1,4 +1,4 @@
-Please see notebook.ipynb file for my answer to the question on the job post
+**Please see notebook.ipynb file for my answer to the question on the job post**
 
 We are currently looking for a statistical analysts to deduct and provide solution to set of data that is provided on daily basis.
 
